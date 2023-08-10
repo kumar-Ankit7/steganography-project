@@ -4,15 +4,7 @@ framework to demonstrate the combination of cryptography that is based on symmet
 steganography that is based on modified LSB which helps to provide security to confidential data over
 an unsecured network.</p>
 
-# Project Team Members :
-<ul>
-<li><b>Ashish kumar (201901275) </b></li>
-<li><b>Kunj Modi (201901036) </b></li>
-<li><b>Tejot Dev (201901149) </b></li>
-<li><b>Nirav Damor (201901156) </b></li>
-</ul>
 
-<br>
 
 
 # METHODOLOGY : 
